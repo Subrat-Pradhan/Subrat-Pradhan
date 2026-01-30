@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Subrat-Pradhan/Subrat-Pradhan/main/github_banner.png" width="100%" alt="Subrat Pradhan Banner">
+  <img src="https://raw.githubusercontent.com/Subrat-Pradhan/Subrat-Pradhan/main/github_banner.png" width="100%" height="250" alt="Subrat Pradhan Banner" style="display: block; border: none; margin: 0; padding: 0; object-fit: cover;">
   
   <h1>Hi there, I'm Subrat Kumar Pradhan 👋</h1>
   <p><b>Quality Analyst Specialist (Playwright | Cypress | AI-Driven Testing)</b></p>
