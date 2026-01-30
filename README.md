@@ -7,7 +7,7 @@
   <p>
     <a href="https://www.linkedin.com/in/subrat-kumar-pradhan-977a5645/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:subratkp27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
+    <a href="https://drive.google.com/file/d/1iDbrlRi9jBbAfnLTuYqnMtZZxrlQOMFE/view"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a>
   </p>
 </div>
 
@@ -16,11 +16,6 @@
 ### 🌟 Professional Summary
 
 Quality Analyst Specialist with **6+ years of experience** in product-based SaaS companies. I specialize in modern testing frameworks (**Playwright**, **Cypress**) and **AI-driven quality engineering**. I have a proven track record of reducing testing cycle times and improving release confidence through scalable automation and robust defect management.
-
-- 🔭 I’m currently working on building scalable automation solutions with **Playwright** & **Cypress**.
-- 🌱 I’m currently learning deeper **Generative AI** integrations for QA.
-- 💬 Ask me about **Test Automation Architecture**, **CI/CD**, and **Quality Best Practices**.
-- ⚡ Fun fact: I love pushing the boundaries of what automation can achieve!
 
 <div align="center">
   <table>
@@ -31,6 +26,11 @@ Quality Analyst Specialist with **6+ years of experience** in product-based SaaS
     </tr>
   </table>
 </div>
+
+- 🔭 I’m currently working on building scalable automation solutions with **Playwright** & **Cypress**.
+- 🌱 I’m currently learning deeper **Generative AI** integrations for QA.
+- 💬 Ask me about **Test Automation Architecture**, **CI/CD**, and **Quality Best Practices**.
+- ⚡ Fun fact: I love pushing the boundaries of what automation can achieve!
 
 ---
 
@@ -71,12 +71,6 @@ Quality Analyst Specialist with **6+ years of experience** in product-based SaaS
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,git,github,githubactions,azure,postman,playwright,cypress" />
-</div>
-
 ---
 
 ### 💼 Experience Highlights
@@ -104,12 +98,19 @@ Quality Analyst Specialist with **6+ years of experience** in product-based SaaS
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subrat-Pradhan&show_icons=true&theme=tokyonight&count_private=true" alt="Subrat's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-Pradhan&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" height="160" />
+  <img src="https://komarev.com/ghpvc/?username=Subrat-Pradhan&color=blue&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+  <img src="https://img.shields.io/github/followers/Subrat-Pradhan?label=Followers&style=for-the-badge&color=24292e&logo=github" />
+  <img src="https://img.shields.io/github/stars/Subrat-Pradhan?label=Total%20Stars&style=for-the-badge&color=24292e&logo=github" />
+  <img src="https://img.shields.io/github/repo-size/Subrat-Pradhan/Subrat-Pradhan?label=Account%20Size&style=for-the-badge&color=24292e&logo=github" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subrat-Pradhan&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
