@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Subrat Kumar Pradhan 👋</h1>
-  <p><b>Quality Analyst Specialist (Playwright | Cypress | AI-Driven Testing)</b></p>
+  <p><b>Quality Analyst Specialist (Playwright | Cypress | AI Driven Testing)</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/subrat-kumar-pradhan-977a5645/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
