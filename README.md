@@ -13,7 +13,7 @@
 
 ### 🌟 Professional Summary
 
-Quality Analyst Specialist with **6+ years of experience** in product-based SaaS companies. I specialize in modern testing frameworks (**Playwright**, **Cypress**) and **AI-driven quality engineering**. I have a proven track record of reducing testing cycle times and improving release confidence through scalable automation and robust defect management.
+Quality Analyst Specialist with **6.5+ years of experience** in product-based SaaS companies. I specialize in modern testing frameworks (**Playwright**, **Cypress**) and **AI-driven quality engineering**. I have a proven track record of reducing testing cycle times and improving release confidence through scalable automation and robust defect management.
 
 <div align="center">
   <table>
